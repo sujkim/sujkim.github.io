@@ -3022,7 +3022,7 @@ button:disabled,
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed, fixed, fixed;
   background-image: url("images/overlay2.png"), url("images/overlay3.svg"),
-    linear-gradient(45deg, #d9dbf1 5%, #d0cdd7 30%, #acb0bd);
+    linear-gradient(45deg, #cfd3fc 5%, #c2acf6 30%, #7a95f1);
   background-position: top left, center center, center center;
   background-size: auto, cover, cover;
   overflow: hidden;
