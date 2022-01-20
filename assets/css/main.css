@@ -2921,9 +2921,10 @@ button:disabled,
 
 .main.style2 {
   background-color: #333;
-  color: rgba(255, 255, 255, 0.75);
+  /* color: rgba(255, 255, 255, 0.75); */
+  color: black;
   background-attachment: fixed, fixed;
-  background-image: url("../../images/pic01.png");
+  background-image: url("../../images/pic2.jpg");
   background-size: auto, cover;
 }
 
