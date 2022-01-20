@@ -2920,12 +2920,13 @@ button:disabled,
 }
 
 .main.style2 {
-  background-color: #333;
+  /* background-color: #333; */
+  background-color: white;
   /* color: rgba(255, 255, 255, 0.75); */
-  color: black;
+
   background-attachment: fixed, fixed;
   background-image: url("../../images/pic2.jpg");
-  background-size: auto, cover;
+  background-size: auto, contain;
 }
 
 .main.style2 a {
@@ -2944,7 +2945,8 @@ button:disabled,
 .main.style2 h6,
 .main.style2 strong,
 .main.style2 b {
-  color: #ffffff;
+  /* color: #ffffff; */
+  color: black;
 }
 
 .main.style2 header p {
