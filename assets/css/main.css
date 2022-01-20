@@ -2488,9 +2488,9 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-.image.fit iframe {
+/* .image.fit iframe {
   width: 100%;
-}
+} */
 
 /* List */
 
