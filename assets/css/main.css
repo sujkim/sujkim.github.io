@@ -2937,6 +2937,13 @@ button:disabled,
   color: #ffffff;
 }
 
+/* .main.style2::after {
+  background-image: url("../../images/pic2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+} */
+
 .main.style2 h1,
 .main.style2 h2,
 .main.style2 h3,
