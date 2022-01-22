@@ -3030,7 +3030,7 @@ button:disabled,
 #header {
   padding: 9em 0 9em 0;
   background-color: #7a95f1;
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.85);
   background-attachment: fixed, fixed, fixed;
   background-image: url("images/overlay2.png"), url("images/overlay3.svg"),
     linear-gradient(45deg, #7a95f1 10%, #c2acf6 80%, #cfd3fc);
